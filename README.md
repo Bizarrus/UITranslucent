@@ -17,13 +17,13 @@ The translucent layer supports only standard colors. Once an RGB color or alpha 
 
 **Works**
 
- `[UIColor whiteColor]
+ `[UIColor whiteColor]`
  
-[UIColor blackColor]
+ `[UIColor blackColor]`
 
-[UIColor redColor]
+ `[UIColor redColor]`
 
-[UIColor blueColor]`
+ `[UIColor blueColor]`
 
 **Don't work**
 
